@@ -14,7 +14,7 @@ function App() {
       <Header />
 
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/React_shop/">
           <MainPage shoes={shoes} />
         </Route>
 
