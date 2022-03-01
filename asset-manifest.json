@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React_Shop/static/css/main.04d805bb.css",
+    "main.js": "/React_Shop/static/js/main.7099aeb6.js",
+    "static/js/787.23170c61.chunk.js": "/React_Shop/static/js/787.23170c61.chunk.js",
+    "static/media/Dior.png": "/React_Shop/static/media/Dior.6e99bd9bc3e444c4cf5c.png",
+    "static/media/University.png": "/React_Shop/static/media/University.9a5656fd065c9b8646e6.png",
+    "static/media/Chicago.png": "/React_Shop/static/media/Chicago.80151f8dcf3ff1d88fc2.png",
+    "static/media/background.jpg": "/React_Shop/static/media/background.53014fac55f80ff4e83f.jpg",
+    "index.html": "/React_Shop/index.html",
+    "main.04d805bb.css.map": "/React_Shop/static/css/main.04d805bb.css.map",
+    "main.7099aeb6.js.map": "/React_Shop/static/js/main.7099aeb6.js.map",
+    "787.23170c61.chunk.js.map": "/React_Shop/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04d805bb.css",
+    "static/js/main.7099aeb6.js"
+  ]
+}
